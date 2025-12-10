@@ -7,13 +7,13 @@ This interactive Power BI dashboard provides insights into hotel booking trends,
 Kaggle: "https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand"
 Format: CSV (119,390 rows × 32 columns)
 
-## 📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 - Total Revenue – Total income generated from bookings.
 - Cancellation Rate – Percentage of bookings that were canceled.
 - Average Daily Rate (ADR) – Average revenue earned per occupied room.
 - Total Bookings – Total number of reservations made.
 - Occupancy Rate – Percentage of available rooms that were occupied.
-- 🎛 Filters for Dynamic Analysis
+- Filters for Dynamic Analysis
 - Hotel Type – Resort Hotel / City Hotel
 - Customer Type – Transient, Group, Contract, Transient-Party
 - Month & Year – Filter bookings over time
